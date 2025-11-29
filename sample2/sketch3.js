@@ -2,7 +2,6 @@ let cnv3;
 
 let bgcolor = 220
 function setup() {cnv3 = createCanvas(600, 400); cnv3.parent("task3");
-  createCanvas(600, 400);
   bgcolor = color(210, 160, 120)
 }
 function draw() {
