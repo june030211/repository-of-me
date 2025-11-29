@@ -3,7 +3,7 @@ new p5((p) => { p.setup = () => {
   p.background(220);
   p.fill(0, 0, 0); 
   p.rect(0, 0, 600, 400);
-  p.fill(255, 255, 255)
+  p.fill(0, 0, 0)
   p.rectMode(p.CORNER); 
   p.rect(0, 0, 600, 400)
   p.noStroke(); 
