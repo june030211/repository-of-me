@@ -2,7 +2,6 @@ let cnv2;
 
 function setup() {
   cnv2 = createCanvas(600, 400); cnv2.parent("task2");
-  createCanvas(600, 400);
   background(220);
 
   // 피부색 (탄 편)
