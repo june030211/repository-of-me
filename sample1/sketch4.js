@@ -4,7 +4,7 @@ new p5((p) => {
 
   p.setup = () => {
     let cnv = p.createCanvas(240, 160);
-    cnv.parent("task2");
+    cnv.parent("task4");
 
     p.rectMode(p.CENTER);
     p.colorMode(p.RGB);
